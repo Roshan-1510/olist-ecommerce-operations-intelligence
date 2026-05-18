@@ -205,11 +205,6 @@ olist-ecommerce-dashboard/
 | DAX | KPI calculation and analytical modeling |
 | Haversine Formula | Geospatial distance calculation |
 
----
-
-## Live Interactive Dashboard
-
-[View Interactive Dashboard on NovyPro](PASTE_NOVYPRO_LINK_HERE)
 
 ---
 
